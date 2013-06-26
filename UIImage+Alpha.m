@@ -6,9 +6,9 @@
 #import "UIImage+Alpha.h"
 
 // Private helper methods
-@interface UIImage ()
-- (CGImageRef)newBorderMask:(NSUInteger)borderSize size:(CGSize)size;
-@end
+//@interface UIImage ()
+//- (CGImageRef)newBorderMask:(NSUInteger)borderSize size:(CGSize)size;
+//@end
 
 @implementation UIImage (Alpha)
 
